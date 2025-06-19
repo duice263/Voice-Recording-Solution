@@ -6,54 +6,40 @@ Despite the widespread adoption of call recording and analytics in contact cente
 
 Traditional customer experience tools are designed for telephony or digital channels and do not support real-time voice capture at physical locations. As a result, organizations lack critical visibility into face-to-face engagements—leading to inconsistent service quality, limited audit capabilities, and missed opportunities for operational improvement and regulatory compliance.
 
-# A  Voice Recording Solution Dashboard for MCN
+# A  Voice Recording Solution for MCN
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/f743ec57-56f3-4def-990d-4b8b1a3c29aa/ReportSection219b51d50aae9df6333f?experience=power-bi
+### Reference Link for a branch : https://apps.powerapps.com/play/e/default-01ea1ee8-0c15-4160-9922-f383f39a19be/a/b484abb8-64ba-45dd-b85b-85e08ca91cfc?tenantId=01ea1ee8-0c15-4160-9922-f383f39a19be&hint=aac46c81-5169-46b4-88a9-26ab053fa63f&sourcetime=1750341677321&source=portal 
 
 
 ### Steps followed 
 
-- Step 1 : Designed a Google Form fro 10 regions with Geo-Code script integration for Data Capturing for sales executives
+- Step 1 : Used Powerapps to design the web interface . With it's capabilities of Mic integration it sets the perfect oportunity for a user interface. 
 
-![Dashboard_upload](https://github.com/user-attachments/assets/3d549de9-fb69-43e8-aac6-ebe9ce7ea584)
-
-
-- Step 2 : All submission is saved on a Google Sheet created for each region
-
-![Dashboard_upload](https://github.com/user-attachments/assets/85d44c4c-7c4b-4088-85e9-26d3e5f6f39f)
-
-- Step 3 : A google Looker Dashboard is designed for each region to analyse and visualize all data on the google sheet per region for use by sales supervisors or regional sales managers. The Upper section of the dashboard has slicers and table for selctions and displays
-
-![Dashboard_upload](https://github.com/user-attachments/assets/33a29f2e-00e4-40ad-9c66-01095201c3e4)
-
-- Step 4 : The buttom section of the google Looker Studio has mainly Pie chart and Heat maps for representative and Geo Location displays 
-
-![Dashboard_upload](https://github.com/user-attachments/assets/b90bba63-3b00-465e-816c-f8b03c2b2b7f)
-
-- Step 5 : For overview reporting for all regions , a PowerBi dashboard was designed to analyse and visualize all data across all regions. Slicers were used for the regions selection alongside for date and manager selections. Score card for count and summation displays and table for display of sales executive performances across regions.
+![Dashboard_upload](https://github.com/user-attachments/assets/f6c7a596-f235-4f9d-9a8b-30fe24751361))
 
 
+- Step 2 : Design of flows on  Power Automate for transmission of recordings from PowerApp 
 
+![Dashboard_upload](https://github.com/user-attachments/assets/638b03cf-1420-41bc-923c-99a1b4485cee)
+
+- Step 3 : Use of SharepointLibrary for storage of transmitted recording from Powerapps through created flows on Power Automate
+
+![Dashboard_upload](https://github.com/user-attachments/assets/437a5bd9-cdb5-4498-8dda-d95e09f9f877)
+
+- Step 4 : Use of PowerBI for reporting using sharepoint as data source . 
+
+![Dashboard_upload](https://github.com/user-attachments/assets/e92eabfe-8b81-4136-8b7b-d455e5a40808)
+
+- Step 5 : With recorded calls in place and can be accessed remotely , recordings can now be assessed using any Quality assurance evaluation analytics tool like Genii . To achieve this , the solution was designed to create a unique code for every interaction that is an acceptable format for the Genii Application.
  
- # Dashboard Image (published)
+![Dashboard_upload](https://github.com/user-attachments/assets/c37c197f-c4f8-4aaf-8bf3-27f681295216)
 
- 
-![Dashboard_upload](https://github.com/user-attachments/assets/acf25978-25cc-487d-9d9c-851da00c29cb)
-
-
-# Dashboard Image ( Powerbi services)
-
- 
-![Dashboard_upload](https://github.com/user-attachments/assets/a93d8213-f004-46df-bb0c-553beeed7840)
 
 # Insights
 
-This solution has been instrumental in tracking stock levels at trade, facilitating quick requisition and purchase of new inventory. Additionally, it has improved the performance of underperforming sales executives, enhanced operational efficiency and delivering significant cost saving across the company.
+With just 3 months into the use of the voice recording solution at the Multichoice Walk-in centers , insight shows a progressive improvement in the Quality assurance metrics such as First Query resolution , Empathy etc . Further eveidence showed an overall improvement in the Customer Satisafaction Survey(CSAT)
 
-# A  Voice Recording Solution Dashboard for MCN
-
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/f743ec57-56f3-4def-990d-4b8b1a3c29aa/ReportSection219b51d50aae9df6333f?experience=power-bi
- 
+![Dashboard_upload](https://github.com/user-attachments/assets/3cbba121-ebad-4aa5-ae09-7334327fd469)
          
 
 
