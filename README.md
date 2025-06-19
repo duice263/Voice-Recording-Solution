@@ -2,9 +2,9 @@
 
 ## Problem Statement
 
-This is a solution to enhance the performance of sales executives in the field by tracking their productivity regarding stock availability and requisitions at  value chain outlets. This was designed as a digital solution that efficiently tracked the activities of over 300 sales executives across 10 regions for Multichoice Nigeria Limited.
+Despite the widespread adoption of call recording and analytics in contact centers, in-person customer interactions at physical service branches remain largely undocumented and unanalyzed. This creates a significant gap in quality assurance, customer sentiment tracking, and dispute resolution in high-volume walk-in environments such as banks, telecoms, and government offices.
 
-A Google Form was designed to capture geocodes, enabling sales executives to log their visitations, potential stock availability, sales, and audit data. For sales supervisors, a Google Looker dashboard was built to easily monitor the performance of their teams in real time. Additionally, a Power BI dashboard was developed for senior management to provide a comprehensive overview of all sales activities across the regions, driving better decision-making and operational efficiency throughout the company's sales structure.
+Traditional customer experience tools are designed for telephony or digital channels and do not support real-time voice capture at physical locations. As a result, organizations lack critical visibility into face-to-face engagements—leading to inconsistent service quality, limited audit capabilities, and missed opportunities for operational improvement and regulatory compliance.
 
 # A  Voice Recording Solution Dashboard for MCN
 
