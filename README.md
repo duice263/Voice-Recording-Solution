@@ -13,12 +13,12 @@ Traditional customer experience tools are designed for telephony or digital chan
 
 ### Steps followed 
 
-- Step 1 : Used Powerapps to design the web interface . With it's capabilities of Mic integration it sets the perfect oportunity for a user interface. 
+- Step 1 : Use of Powerapps to design the web interface . With it's capabilities of Mic integration it sets the perfect oportunity for an approriate user interface application. 
 
 ![Dashboard_upload](https://github.com/user-attachments/assets/f6c7a596-f235-4f9d-9a8b-30fe24751361))
 
 
-- Step 2 : Design of flows on  Power Automate for transmission of recordings from PowerApp 
+- Step 2 : Design of flows on  Power Automate for transmission of recordings from PowerApps 
 
 ![Dashboard_upload](https://github.com/user-attachments/assets/638b03cf-1420-41bc-923c-99a1b4485cee)
 
